@@ -1,0 +1,16 @@
+{
+    "name": "slacktionary",
+    "description": "Slacktionary",
+    "author": "Evan Halley",
+    "main": "app.js",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "express"               : "4.13.0",
+        "compression"           : "1.2.0",
+        "body-parser"           : "1.9.1",
+        "response-time"         : "2.2.0",
+        "xml2js"                : "0.4.15",
+        "request"               : "2.67.0"
+    }
+}
